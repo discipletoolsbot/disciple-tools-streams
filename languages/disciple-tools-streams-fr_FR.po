@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: Disciple Tools Plugins\n"
 "Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/disciple-tools-"
 "streams\n"
-"POT-Creation-Date: 2024-02-01T07:47:42+00:00\n"
-"PO-Revision-Date: 2024-09-25 17:59+0000\n"
+"POT-Creation-Date: 2024-09-26T12:27:28+00:00\n"
+"PO-Revision-Date: 2024-10-12 11:59+0000\n"
 "Last-Translator: Sarah <s.colpart@gmail.com>\n"
 "Language-Team: French <https://translate.disciple.tools/projects/"
 "disciple-tools/disciple-tools-stream/fr_FR/>\n"
@@ -16,6 +16,7 @@ msgstr ""
 "X-Generator: Weblate 5.7.2\n"
 
 #. Author URI of the plugin
+#: disciple-tools-streams.php
 msgid "https://github.com/DiscipleTools"
 msgstr "https://github.com/DiscipleTools"
 
@@ -376,7 +377,7 @@ msgstr "Connexions"
 
 #: post-type/streams-post-type.php:625
 msgid "Other"
-msgstr "Autre"
+msgstr "Autres"
 
 #: post-type/streams-post-type.php:954
 msgctxt "List Filters"
